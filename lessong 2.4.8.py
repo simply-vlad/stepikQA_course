@@ -26,3 +26,4 @@ input1.send_keys(y)
 
 button = browser.find_element_by_css_selector("#solve")
 button.click()
+#TEST COMMIT FOR GITHUB (PYCHARM USED)
